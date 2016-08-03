@@ -9,3 +9,5 @@ suchi
 @chuui 
 @marilla716
 
+@newface 新人
+
