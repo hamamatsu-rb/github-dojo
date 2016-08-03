@@ -2,5 +2,3 @@
 @misogi
 
 @yowasou 議事録
-
-@mobius_bkst モブ
