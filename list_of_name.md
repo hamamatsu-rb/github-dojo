@@ -14,3 +14,5 @@ suchi
 @pusama(有賀)
 
 @jacoyutorius 司会
+
+@risgk
